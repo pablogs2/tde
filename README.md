@@ -18,4 +18,4 @@ Vamos a hacer una lista ordenada:
 
 Un enlace a goole: [google](https://www.google.es)
 
-Un enlace a pagina 1: [pag1](contenido/pagina1.md)
+Un enlace a pagina 1: [pagina1](contenido/pagina1.md)
