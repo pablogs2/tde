@@ -17,3 +17,5 @@ Vamos a hacer una lista ordenada:
 3. tres
 
 Un enlace a goole: [google](https://www.google.es)
+
+Un enlace a pagina 1: [](contenido/pagina1.md)
