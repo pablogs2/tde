@@ -3,7 +3,7 @@
 
 ## Reserva de Equipos 
 
-### <u>Portátiles</u>
+### Portátiles
 
 El centro cuenta con un total de **25 portátiles** disponibles como recurso TIC para su uso en el aula. Estos dispositivos están organizados en **5 maletas**, cada una con **5 portátiles**, y su préstamo y uso se rige por el siguiente procedimiento.
 
