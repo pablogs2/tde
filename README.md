@@ -1,4 +1,4 @@
-# Índice del Manual de Procedimientos TIC / TDE del Centro
+# Manual de Procedimientos TIC / TDE del Centro
 
 1. Introducción
 2. Soporte TIC para el Aula
