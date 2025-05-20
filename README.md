@@ -1,7 +1,7 @@
 # Manual de Procedimientos TIC / TDE del Centro
 
-1. Introducción
-2. Soporte TIC para el Aula
+[1. Introducción](contenido/introduccion.md)
+[2. Soporte TIC para el Aula](contenido/soporte_tic.md)
 3. Procedimientos y Servicios TIC
     1. Reserva de Equipos (portátiles, tablets, carros)
     2. Solicitud de Préstamo de Portátiles para Profesorado
