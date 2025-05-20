@@ -1,21 +1,15 @@
-# proyecto tde
+# Índice del Manual de Procedimientos TIC / TDE del Centro
 
-Esto es una prueba. Esto es **negrita**, esto es *subrayado*. 
-
-## Subtitulo 2
-
-Vamos una lista desordenada:
-
-* Uno
-* Dos
-* Tres
-
-Vamos a hacer una lista ordenada:
-
-1. uno
-2. dos
-3. tres
-
-Un enlace a goole: [google](https://www.google.es)
-
-Un enlace a pagina 1: [pagina1](contenido/pagina1.md)
+1. Introducción
+2. Soporte TIC para el Aula
+3. Procedimientos y Servicios TIC
+    1. Reserva de Equipos (portátiles, tablets, carros)
+    2. Solicitud de Préstamo de Portátiles para Profesorado
+    3. Solicitud de Préstamo de Portátiles para Alumnado
+    4. Gestión de Incidencias Técnicas
+    5. Solución de Fallos Técnicos Habituales
+    3. Conexión a la Red Andared Corporativa
+4. Recursos Digitales y Plataformas Utilizadas en el Centro
+5. Publicación de contenido en la web y RRSS.
+6. Gestión de Cuentas corporativas alumnos
+7. Proyecto TDE
