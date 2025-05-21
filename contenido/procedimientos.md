@@ -122,37 +122,38 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
 - El profesorado es responsable de la **custodia y correcto uso del equipo** durante todo el periodo de préstamo.
 - El equipo debe mantener el **Sistema operativo original**.
 - **Antes de devolver el equipo** se debe realizar lo siguiente:
-    1. Borrar todo el contenido almacenado en el portátil en las distintas ubicaciones : Escritorio, descarga, documentos, imágenes, música, videos y papelera.
-    2. Borrar el historial de firefox.
-         Acceso al menú y seleccionar opción “historial”.
-         ![image](../imagenes/acceso_historial.png)
 
-         Seleccionamos la opción “Limpiar el historial reciente”.
-         ![image](../imagenes/limpiar_historial.png)
+  1. **Borrar todo el contenido almacenado en el portátil** en las distintas ubicaciones: Escritorio, Descargas, Documentos, Imágenes, Música, Vídeos y Papelera.
 
-         Seleccionamos todas las opciones como en la captura y pulsamos sobre “limpiar ahora”.
-         ![image](../imagenes/limpiar_historial_2.png)
+  2. **Borrar el historial de Firefox**:
+     
+     - Accede al menú y selecciona la opción **"Historial"**.  
+       ![Acceso al historial](../imagenes/acceso_historial.png)
 
-    4. Borrar contraseñas almacenadas en el navegador firefox.
-         Acceso al menú y seleccionar opción “contraseñas”
-         ![image](../imagenes/acceso_contraseña_firefox.png)
+     - Selecciona la opción **"Limpiar el historial reciente"**.  
+       ![Limpiar historial](../imagenes/limpiar_historial.png)
 
-         Eliminar todas las contraseñas almacenadas.
-         ![image](../imagenes/eliminar_contraseña_firefox.png)
+     - Marca todas las opciones como se muestra en la imagen y pulsa en **"Limpiar ahora"**.  
+       ![Opciones de limpieza](../imagenes/limpiar_historial_2.png)
 
+  3. **Borrar contraseñas almacenadas en Firefox**:
 
-    5. Borrar contraseñas wifi del usuario Séneca.
-         Seleccionamos el icono de Wifi, pulsamos sobre la pestaña de la red “Andared_Corporativo” y accedemos a la opción “Configuración de Wi-fi”
-         ![image](../imagenes/eliminar_wifi.png)
+     - Accede al menú y selecciona la opción **"Contraseñas"**.  
+       ![Acceso a contraseñas](../imagenes/acceso_contraseña_firefox.png)
 
-         Pulsamos sobre el menú de los 3 puntos y accedemos a las “ redes inalámbricas conocidas
-         ![image](../imagenes/eliminar_wifi_2.png)
+     - Elimina todas las contraseñas guardadas.  
+       ![Eliminar contraseñas](../imagenes/eliminar_contraseña_firefox.png)
 
-         Una vez dentro de las redes conocidas, seleccionamos aquellas que queremos olvidar para que elimine todos los datos.
-         ![image](../imagenes/limpiar_wifi_%203.png)
+  4. **Borrar contraseñas Wi-Fi del usuario Séneca**:
 
+     - Selecciona el icono de Wi-Fi, pulsa sobre la red **"Andared_Corporativo"** y accede a **"Configuración de Wi-Fi"**.  
+       ![Acceso a configuración Wi-Fi](../imagenes/eliminar_wifi.png)
 
+     - Pulsa sobre el menú de los tres puntos y accede a **"Redes inalámbricas conocidas"**.  
+       ![Redes conocidas](../imagenes/eliminar_wifi_2.png)
 
+     - Una vez dentro, selecciona las redes que desees olvidar para eliminar todos los datos.  
+       ![Olvidar redes Wi-Fi](../imagenes/limpiar_wifi_3.png)
 
 
 ### Solicitud de Préstamo de Portátiles para Alumnado
