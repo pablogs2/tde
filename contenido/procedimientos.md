@@ -125,8 +125,11 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
     1. Borrar todo el contenido almacenado en el portátil en las distintas ubicaciones : Escritorio, descarga, documentos, imágenes, música, videos y papelera.
     2. Borrar el historial de firefox.
        Acceso al menú y seleccionar opción “historial”
+       ![image](../imagenes/acceso_historial.png)
+
     4. Borrar contraseñas almacenadas en el navegador firefox.
     5. Borrar contraseñas wifi con el usuario Séneca.
+
 
 
 
