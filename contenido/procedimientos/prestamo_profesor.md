@@ -44,10 +44,10 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
 
 2. **Borrar el historial de Firefox**:
    - Accede al menú y selecciona la opción **"Historial"**  
-     ![Acceso al historial](../imagenes/acceso_historial.png)
+     ![Acceso al historial](imagenes/acceso_historial.png)
 
    - Selecciona la opción **"Limpiar el historial reciente"**  
-     ![Limpiar historial](../imagenes/limpiar_historial.png)
+     ![Limpiar historial](/imagenes/limpiar_historial.png)
 
    - Marca todas las opciones como se muestra en la imagen y pulsa en **"Limpiar ahora"**  
      ![Opciones de limpieza](../imagenes/limpiar_historial_2.png)
