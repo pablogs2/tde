@@ -19,7 +19,7 @@ El centro dispone de **2 carros de portátiles**, ubicados en:
 - Para acceder a las llaves, se debe consultar con el personal de conserjería.
 - Está permitido **solicitar ayuda al alumnado para el traslado** de los carritos, pero en ningún caso el alumnado puede acceder directamente a por el material.
 
-### Normas de uso
+#### Normas de uso
 
 - **Los carros deben permanecer cerrados y organizados** cuando no estén en uso.
 - El traslado del carro se realizará **con cuidado**, evitando golpes o desplazamientos bruscos.
