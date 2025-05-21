@@ -71,7 +71,7 @@ El centro dispone de **2 carros de portátiles**, ubicados en:
 
 #### Procedimiento de reserva
 
-- La reserva de los carritos se realiza a través de la plataforma **GESTIONA**.
+- La reserva de los carritos se realiza a través de la plataforma [**GESTIONA**](https://gestiona.gonzalonazareno.org/reservas/reserva).
 - La reserva puede hacerse:
   - Para un **día y hora concretos**, o bien
   - Como **reserva recurrente** para un periodo determinado (por ejemplo, durante todo un trimestre los martes a segunda hora).
