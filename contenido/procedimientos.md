@@ -142,7 +142,7 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
        ![Acceso a contraseñas](../imagenes/acceso_contraseña_firefox.png)
 
      - Elimina todas las contraseñas guardadas.  
-       ![Eliminar contraseñas](../imagenes/limpiar_wifi_%203.png)
+       ![Eliminar contraseñas](../imagenes/eliminar_contraseña_firefox.png)
 
   4. **Borrar contraseñas Wi-Fi del usuario Séneca**:
 
@@ -153,7 +153,7 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
        ![Redes conocidas](../imagenes/eliminar_wifi_2.png)
 
      - Una vez dentro, selecciona las redes que desees olvidar para eliminar todos los datos.  
-       ![Olvidar redes Wi-Fi](../imagenes/limpiar_wifi_3.png)
+       ![Olvidar redes Wi-Fi](../imagenes/limpiar_wifi_%203.png)
 
 
 ### Solicitud de Préstamo de Portátiles para Alumnado
