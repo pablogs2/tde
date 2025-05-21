@@ -124,32 +124,32 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
 - **Antes de devolver el equipo** se debe realizar lo siguiente:
     1. Borrar todo el contenido almacenado en el portátil en las distintas ubicaciones : Escritorio, descarga, documentos, imágenes, música, videos y papelera.
     2. Borrar el historial de firefox.
-       Acceso al menú y seleccionar opción “historial”.
-       ![image](../imagenes/acceso_historial.png)
+         Acceso al menú y seleccionar opción “historial”.
+         ![image](../imagenes/acceso_historial.png)
 
-       Seleccionamos la opción “Limpiar el historial reciente”.
-       ![image](../imagenes/limpiar_historial.png)
+         Seleccionamos la opción “Limpiar el historial reciente”.
+         ![image](../imagenes/limpiar_historial.png)
 
-       Seleccionamos todas las opciones como en la captura y pulsamos sobre “limpiar ahora”.
-       ![image](../imagenes/limpiar_historial_2.png)
+         Seleccionamos todas las opciones como en la captura y pulsamos sobre “limpiar ahora”.
+         ![image](../imagenes/limpiar_historial_2.png)
 
     4. Borrar contraseñas almacenadas en el navegador firefox.
-       Acceso al menú y seleccionar opción “contraseñas”
-       ![image](../imagenes/acceso_contraseña_firefox.png)
+         Acceso al menú y seleccionar opción “contraseñas”
+         ![image](../imagenes/acceso_contraseña_firefox.png)
 
-       Eliminar todas las contraseñas almacenadas.
-       ![image](../imagenes/eliminar_contraseña_firefox.png)
+         Eliminar todas las contraseñas almacenadas.
+         ![image](../imagenes/eliminar_contraseña_firefox.png)
 
 
     5. Borrar contraseñas wifi del usuario Séneca.
-       Seleccionamos el icono de Wifi, pulsamos sobre la pestaña de la red “Andared_Corporativo” y accedemos a la opción “Configuración de Wi-fi”
-       ![image](../imagenes/eliminar_wifi.png)
+         Seleccionamos el icono de Wifi, pulsamos sobre la pestaña de la red “Andared_Corporativo” y accedemos a la opción “Configuración de Wi-fi”
+         ![image](../imagenes/eliminar_wifi.png)
 
-       Pulsamos sobre el menú de los 3 puntos y accedemos a las “ redes inalámbricas conocidas
-       ![image](../imagenes/eliminar_wifi_2.png)
+         Pulsamos sobre el menú de los 3 puntos y accedemos a las “ redes inalámbricas conocidas
+         ![image](../imagenes/eliminar_wifi_2.png)
 
-       Una vez dentro de las redes conocidas, seleccionamos aquellas que queremos olvidar para que elimine todos los datos.
-       ![image](../imagenes/limpiar_wifi_%203.png)
+         Una vez dentro de las redes conocidas, seleccionamos aquellas que queremos olvidar para que elimine todos los datos.
+         ![image](../imagenes/limpiar_wifi_%203.png)
 
 
 
