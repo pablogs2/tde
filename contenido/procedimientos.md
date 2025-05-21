@@ -36,7 +36,7 @@ El centro dispone de **2 carros de portátiles**, ubicados en:
 - Verificar que los dispositivos están correctamente colocados y cargando al finalizar su uso.
 
 
-### Carro de Portátiles
+### Mochila de Portátiles
 
 El centro cuenta con un total de **25 portátiles** disponibles como recurso TIC para su uso en el aula. Estos dispositivos están organizados en **5 maletas**, cada una con **5 portátiles**, y su préstamo y uso se rige por el siguiente procedimiento.
 
