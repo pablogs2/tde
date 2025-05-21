@@ -142,14 +142,14 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
 
 
     5. Borrar contraseñas wifi del usuario Séneca.
-      Seleccionamos el icono de Wifi, pulsamos sobre la pestaña de la red “Andared_Corporativo” y accedemos a la opción “Configuración de Wi-fi”
-      ![image](../imagenes/eliminar_wifi.png)
+       Seleccionamos el icono de Wifi, pulsamos sobre la pestaña de la red “Andared_Corporativo” y accedemos a la opción “Configuración de Wi-fi”
+       ![image](../imagenes/eliminar_wifi.png)
 
-      Pulsamos sobre el menú de los 3 puntos y accedemos a las “ redes inalámbricas conocidas
-      ![image](../imagenes/eliminar_wifi_2.png)
+       Pulsamos sobre el menú de los 3 puntos y accedemos a las “ redes inalámbricas conocidas
+       ![image](../imagenes/eliminar_wifi_2.png)
 
-      Una vez dentro de las redes conocidas, seleccionamos aquellas que queremos olvidar para que elimine todos los datos.
-      ![image](../imagenes/limpiar_wifi_%203.png)
+       Una vez dentro de las redes conocidas, seleccionamos aquellas que queremos olvidar para que elimine todos los datos.
+       ![image](../imagenes/limpiar_wifi_%203.png)
 
 
 
