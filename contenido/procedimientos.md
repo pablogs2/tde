@@ -100,6 +100,36 @@ El centro dispone de **2 mochilas** con **10 tablets cada una**, disponibles par
 ### Solicitud de Préstamo de Portátiles para Profesorado
 
 
+El centro pone a disposición del profesorado una serie de portátiles que pueden ser utilizados como herramienta de trabajo docente durante el curso escolar.
+
+#### Petición
+
+- Para solicitar un portátil al inicio del curso, es necesario **rellenar el siguiente formulario**:
+
+  👉 [Formulario de solicitud de préstamo de portátiles](https://docs.google.com/forms/d/e/1FAIpQLSfInFUU8SDnYKKmHuUs2PBk79PB1GRtxMlu-husQY9bmC3O2Q/viewform?usp=sf_link)
+
+- Si la solicitud se realiza una vez comenzado el curso, además de rellenar el formulario, será obligatorio **notificar la petición al Coordinador/a TDE a través de Séneca**, indicando que se ha solicitado un préstamo.
+
+#### Periodo de préstamo
+
+- El periodo de préstamo abarca desde el **mes de septiembre hasta el mes de junio**.
+- **Todos los portátiles deberán ser devueltos antes de la finalización del curso académico**.
+
+#### Normas de uso
+
+- El portátil es un **recurso del centro** cedido para uso profesional y docente.
+- Se debe **mantener el equipo en buen estado** y notificar cualquier incidencia técnica a través del procedimiento habitual de incidencias TIC en [**Incidencia TIC en GESTIONA**](https://gestiona.gonzalonazareno.org/tde/misincidenciastic).
+- El profesorado es responsable de la **custodia y correcto uso del equipo** durante todo el periodo de préstamo.
+- El equipo debe mantener el **Sistema operativo original**.
+- **Antes de devolver el equipo** se debe realizar lo siguiente:
+    1. Borrar todo el contenido almacenado en el portátil en las distintas ubicaciones : Escritorio, descarga, documentos, imágenes, música, videos y papelera.
+    2. Borrar el historial de firefox.
+       Acceso al menú y seleccionar opción “historial”
+    4. Borrar contraseñas almacenadas en el navegador firefox.
+    5. Borrar contraseñas wifi con el usuario Séneca.
+
+
+
 ### Solicitud de Préstamo de Portátiles para Alumnado
 
 
