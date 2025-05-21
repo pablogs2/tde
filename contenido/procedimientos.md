@@ -142,7 +142,7 @@ El centro pone a disposición del profesorado una serie de portátiles que puede
        ![Acceso a contraseñas](../imagenes/acceso_contraseña_firefox.png)
 
      - Elimina todas las contraseñas guardadas.  
-       ![Eliminar contraseñas](../imagenes/limpiar_wifi_3.png)
+       ![Eliminar contraseñas](../imagenes/limpiar_wifi_%203.png)
 
   4. **Borrar contraseñas Wi-Fi del usuario Séneca**:
 
