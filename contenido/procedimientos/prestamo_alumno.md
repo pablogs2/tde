@@ -8,7 +8,7 @@ El centro contempla la posibilidad de facilitar **portátiles en préstamo al al
 
 1. El/la **tutor/a detecta** la necesidad del alumno/a que solicita el equipo.
 2. El/la tutor/a **traslada la petición a Jefatura de Estudios**, quien valorará el caso.
-3. Si la solicitud es aprobada, **Jefatura de Estudios comunica el visto bueno** a la **coordinadora TDE**.
+3. Si la solicitud es aprobada, **Jefatura de Estudios comunica el visto bueno** al **coordinador TDE**.
 4. El **coordinador TDE** se encarga de **gestionar el proceso de préstamo**, contactando con la familia para formalizarlo.
 
 ---
