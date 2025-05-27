@@ -57,6 +57,6 @@ Esta guía te ayudará a registrar correctamente una incidencia TIC en la plataf
 📺 Para más detalles, puedes visualizar la píldora formativa en el siguiente video.
 
 <video width="640" controls>
-  <source src="multimedia/Pildora_3_Gestiona_Incidencias.mp4" type="video/mp4">
+  <source src="imagenes/Pildora_3_Gestiona_Incidencias.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
