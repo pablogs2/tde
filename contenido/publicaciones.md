@@ -42,5 +42,4 @@ Para preservar la privacidad y cumplir con la normativa de protección de datos,
 - Asegurarse de que el contenido **sea representativo, respetuoso y educativo**.
 - Incluir textos claros, breves y con buena ortografía.
 - Utilizar imágenes de calidad y, preferiblemente, en horizontal para la web; en formato cuadrado o vertical para Instagram.
-- Indicar siempre el **curso, grupo o proyecto** al que hace referencia la publicación, sin revelar información sensible.
 
