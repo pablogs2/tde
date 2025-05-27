@@ -62,4 +62,17 @@ Esta guía te ayudará a registrar correctamente una incidencia TIC en la plataf
 </video>
 
 
-Que no es una incidencia TIC
+## ❌ Qué NO es una incidencia TIC
+
+Antes de registrar una incidencia en la plataforma **GESTIONA**, es importante saber qué situaciones **NO** deben considerarse como incidencias TIC, ya que su gestión sigue otros cauces. A continuación, se detallan algunos ejemplos:
+
+---
+
+### Olvido de contraseñas del alumnado  
+➤ Deben resolverse a través del/la **tutor/a** o del **profesorado responsable del grupo**, no mediante el registro de incidencia TIC.
+
+### Petición de nuevos equipos, material o mejoras de infraestructura  
+➤ Estas demandas deben ser tramitadas mediante la **Jefatura de Estudios** o el **equipo directivo**, no como avería o incidencia técnica.
+
+
+
