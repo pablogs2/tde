@@ -60,3 +60,6 @@ Esta guía te ayudará a registrar correctamente una incidencia TIC en la plataf
   <source src="imagenes/Pildora_3_Gestiona_Incidencias.mp4" type="video/mp4">
   Tu navegador no soporta la reproducción de video.
 </video>
+
+
+Que no es una incidencia TIC
