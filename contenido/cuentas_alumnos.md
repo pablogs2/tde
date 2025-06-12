@@ -33,7 +33,7 @@ Las cuentas se generan automáticamente a partir del usuario Séneca del alumno/
     allowfullscreen>
 </iframe>
 
-### Creación Vigencia
+### Vigencia
 
   La cuenta estará operativa **mientras el alumno/a esté matriculado en un centro público andaluz**. Al abandonar el centro, la cuenta dejará de estar disponible.
 
