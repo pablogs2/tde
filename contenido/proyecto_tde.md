@@ -2,7 +2,7 @@
 
 El Proyecto TDE es una iniciativa de la Junta de Andalucía para impulsar la competencia digital en los centros educativos sostenidos con fondos públicos. Su objetivo es fomentar el uso eficaz, seguro y pedagógico de las tecnologías digitales en el proceso de enseñanza-aprendizaje.
 
-
+![Organigrama](/imagenes/organigramaTDE.png)
 
 ## Rúbrica TDE y Nivel de Competencia Digital del Centro
 
