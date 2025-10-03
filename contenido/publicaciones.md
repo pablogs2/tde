@@ -27,9 +27,9 @@ A continuación, se detalla el procedimiento y algunas recomendaciones para gara
   
 ### 📌 Procedimiento
 
-1. Al igual que con la web, el profesorado debe **notificar a la Subdirectora** la intención de realizar una publicación.
-2. La Subdirectora revisará el contenido y, si lo considera adecuado, **dará el visto bueno**.
-3. Posteriormente, informará a la **persona responsable de la cuenta de Instagram**, quien será la encargada de realizar la publicación.
+1. Enviar imágenes o vídeos al Whatsapp de Ana Isabel Losada Durán o subirlas a drive y compartirlas con ella al email **alosdur901@g.educaand.es** junto a un pequeño párrafo donde contéis a modo de resumen la actividad, curso, asignatura, objetivo, etc. En definitiva, una breve descripción para que quien os lea sepa lo que se está haciendo.
+2. Instagram permite un **máximo de 20 archivos** (ya sean fotos o vídeos), pero lo ideal serían unas 10-15 máximo para no saturar las publicaciones.
+3. Al no tener la aprobación de las familias de todo el alumnado del centro para publicar su imagen en las redes sociales, las fotos se realizarán a la actividad directamente o si el alumnado aparece que sea de espaldas, pixelado o borroso o solicitando previa autorización a las familias. 
 
 ---
 
@@ -42,4 +42,5 @@ Para preservar la privacidad y cumplir con la normativa de protección de datos,
 - Asegurarse de que el contenido **sea representativo, respetuoso y educativo**.
 - Incluir textos claros, breves y con buena ortografía.
 - Utilizar imágenes de calidad y, preferiblemente, en horizontal para la web; en formato cuadrado o vertical para Instagram.
+
 
