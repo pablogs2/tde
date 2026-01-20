@@ -13,3 +13,4 @@
 5. [Publicación de contenido en la web y RRSS](contenido/publicaciones.md)
 6. [Gestión de Cuentas corporativas alumnos](contenido/cuentas_alumnos.md)
 7. [Proyecto TDE](contenido/proyecto_tde.md)
+8. [Curso Formación Capacitación Técnica](contenido/capacitacion_tecnica.md)
